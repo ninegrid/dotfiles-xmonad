@@ -8,6 +8,8 @@ Dependencies
 
 * [xmonad](http://xmonad.org)
 * [dotfiles-xmobar](http://github.com/ninegrid/dotfiles-xmobar)
+* [dmenu](http://tools.suckless.org/dmenu)
+
 
 Setup
 ------------
